@@ -5,7 +5,7 @@ ROS metapackage for ground robot navigation and exploration developed for the Eu
 
 ## Dependencies
 
-* pcl v.1.9.1. Install here: 
+* pcl v.1.9.1. Get it from: https://github.com/PointCloudLibrary/pcl
 * ROS (tested with ROS Kinetic under Ubuntu 16.04). Currently switching to 18.04.
 
 ## Contents 
