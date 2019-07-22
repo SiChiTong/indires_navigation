@@ -3,6 +3,13 @@ ROS metapackage for ground robot navigation and exploration developed for the Eu
 
 ![alt text](https://github.com/noeperez/indires_navigation/blob/master/indires_navigation/images/rrt_planning.png)
 
+## Dependencies
+
+* pcl v.1.9.1. Install here: 
+* ROS (tested with ROS Kinetic under Ubuntu 16.04). Currently switching to 18.04.
+
+## Contents 
+
 This metapackage contains:
 
 * *rrt_planners*:  
